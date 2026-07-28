@@ -3,7 +3,6 @@
 int main()
 {
     int R,C;
-    printf("Enter the Rank: ");
     scanf("%d %d",&R,&C);
 
     if(R > 2000){
